@@ -1,7 +1,7 @@
 # ourfavorites
 
-##Foods!
+## Foods!
 
-###Noodles!
-###Fried Rice
-###Lasagna
+### Noodles!
+### Fried Rice
+### Lasagna
