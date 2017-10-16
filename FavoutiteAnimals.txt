@@ -7,3 +7,7 @@ komodo dragons
 bearded lizards
 newts
 basilisk
+Wolf
+Dog
+Mouse
+Chicken
