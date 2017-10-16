@@ -10,4 +10,4 @@ basilisk
 Wolf
 Dog
 Mouse
-Chicken
+Chickens
